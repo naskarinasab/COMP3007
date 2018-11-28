@@ -1,0 +1,19 @@
+Program Author: Navid Askari Nasab
+Student #: 101039154
+Date: Friday, September 21th, 2018
+
+
+List of source files:
+comp3007_f18_101039154_a1_1.java
+
+Compilation command: javac comp3007_f18_101039154_a1_1.java
+Execution command: java comp3007_f18_101039154_a1_1
+
+Operating Instructions:
+1. Compile and run the program
+2. Enter in a phrase you would like to see in Camel Acrostics
+3. If you would like to redo the whole program, simply enter "Y" or "N" when prompted
+
+Issues/Limitations:
+When entering in a phrase, it was assumed (based on what the prof said in class) that there was no trickery when entering in
+a phrase. So, this program does not check for consecutive spaces, or special characters. 
